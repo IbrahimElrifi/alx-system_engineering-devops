@@ -1,2 +1,2 @@
 #!/bin/bash
-export GLOBAL_VARIABLE=school
+export GLOBAL_VARIABLE=School
